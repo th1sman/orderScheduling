@@ -53,9 +53,9 @@
    1. Obtener retroalimentación de los clientes y mecanicos para mejorar el sistema con el tiempo.
 
 ### TO-DO
- [] Definir modelos (products, orders, clients)
- [] Configurar la BD
- [] Crear las vistas (permitir a los usuarios ver los productos, hacer pedidos, ver su historial de pedidos) vistas basadas en clases o vistas funcionales
- [] Configurar las urls
- [] Crear plantillas html
- [] Implementar logica de negocio
+- [] Definir modelos (products, orders, clients)
+- [] Configurar la BD
+- [] Crear las vistas (permitir a los usuarios ver los productos, hacer pedidos, ver su historial de pedidos) vistas basadas en clases o vistas funcionales
+- [] Configurar las urls
+- [] Crear plantillas html
+- [] Implementar logica de negocio
